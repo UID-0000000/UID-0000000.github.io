@@ -1,5 +1,5 @@
 ---
-layout: UID0
+layout: page
 ---
 
 # About Me
