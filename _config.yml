@@ -36,6 +36,10 @@ links:
     url: /
   - title: Hobbies
     url: /hobbies/index.html
+  - title: Blogs
+    url: /blogs/
+
+  
   
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
