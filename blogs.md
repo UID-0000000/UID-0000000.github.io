@@ -4,9 +4,13 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-## Chinese Blogs
+## Blogs
 
 ### 2023
 
-- [新建博客](/blogs/UID.md)
+- [UID1](/blogs/UID.md)
+- [新建文件夹](/blogs/新建文件夹.md/)
 
+### 2022
+
+nothing！！！
