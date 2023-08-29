@@ -9,8 +9,7 @@ I don't want to become an engineer.
 <br>
 
 ## Academic Background
-
-<font color='red'>[修改颜色]</font> 
+nothing
 - **Sep 2020 - June 2024:** 时间参考
 
 <br>
