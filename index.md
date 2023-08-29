@@ -4,11 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
-
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
-
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
+i dont want be an e
 
 <br>
 
@@ -38,7 +34,7 @@ My current research focuses on practical problems that artificial intelligence f
 ---
 
 ## News and Updates
-
+- **Aug 2023：**nothing
 - **Aug 2023：**Happy to be awarded the FEPG Scholarship.
 - **May 2023：**Happy to be awarded the XiamenAir Scholarship.
 - **May 2023：**Collected the Finalist Award in MCM 2023.
