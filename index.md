@@ -10,7 +10,7 @@ I don't want to become an engineer.
 
 ## Academic Background
 nothing
-- **Sep 2020 - June 2024:** Graduated from a stupid school.
+- **Sep 2020 - June 2023:** Graduated from a stupid school.
 
 <br>
 
