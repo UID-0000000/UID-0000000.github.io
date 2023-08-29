@@ -10,12 +10,8 @@ i dont want be an e
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
+**<font color='red'>[红色]</font> 这是参考
+- **Sep 2020 - June 2024:** 时间参考
 
 <br>
 
@@ -23,11 +19,11 @@ i dont want be an e
 
 ## Research Interests
 
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
+- 搭建一个网页
+- 去码头整点薯条
+- 如何实现归档功能tag？
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+这只是初步搭建，我还需完善更多功能，先得搞清楚这些概念
 
 <br>
 
@@ -35,9 +31,3 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 - **Aug 2023：**nothing
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
