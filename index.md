@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-i dont want be an e
+I don't want to become an engineer.
 
 <br>
 
