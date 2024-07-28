@@ -6,15 +6,14 @@ title: Hobbies
 
 # Hobbies
 
-nothing
 
 ## Past Hobbies
 
-nothing
+- game
+- anime
+## 
 
-## 测试
 
-内容
 
 
 
