@@ -11,7 +11,6 @@ title: Hobbies
 
 - game
 - anime
-## 
 
 
 
@@ -19,5 +18,5 @@ title: Hobbies
 
 ## Chat with me
 
-Welcome to chat with me!
+Welcome to chat with me！
 

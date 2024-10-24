@@ -6,18 +6,19 @@ layout: page
 
 I don't want to become an engineer.
 Currently studying network engineering.
+You can come to me if you have questions.
 
 <br>
 
 ## Academic Background
-- **Sep 2020 - June 2023:** Graduated from a stupid school.
+nothing
 
 <br>
 
 ---
 
 ## Research Interests
-
+- Learn C++
 - Learn AE.
 - Learn PR.
 - Build a dynamic blog and rent a domain name.
